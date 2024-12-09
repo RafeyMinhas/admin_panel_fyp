@@ -1,6 +1,7 @@
+import 'package:admin_panel/Teacher/Teacher.dart';
 import 'package:flutter/material.dart';
 import 'package:admin_panel/Students.dart';
-import 'package:admin_panel/Teachers.dart';
+import 'package:admin_panel/Teacher/Teachers.dart';
 import 'package:admin_panel/Courses/courses.dart';
 import 'package:admin_panel/gigs.dart';
 
